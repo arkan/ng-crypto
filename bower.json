@@ -1,0 +1,9 @@
+{
+  "name": "angular-cryptography",
+  "version": "0.1.0",
+  "main": "./ng-crypto.js",
+  "dependencies": {
+    "cryptojslib-aes": "http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/aes.js"
+  },
+  "ignore": []
+}
